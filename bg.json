@@ -1,60 +1,58 @@
 {
-"OnBoard_pick_genre" = "Изберете любимите си жанрове";
-"OnBoard_movies" = "Филми";
-"OnBoard_back" = "Назад";
-"OnBoard_next" = "Следваща";
-"OnBoard_tvshows" = "ТВ предавания";
-"OnBoard_Title_Track" = "Подобрете емисията си с Trakt";
-"OnBoard_Des_Track" = "Използваме публичните данни на Trakt, за да покажем какви хора 
-гледат. Можете да изключите това по всяко време в настройките";
-"OnBoard_Warning_Title" = "Предупреждение";
-"OnBoard_Warning_Des" = "Моля, изберете поне 5 жанра!";
-"Home_Suggest" = "Предложете за вас";
-"Home_Network" = "Изследване по мрежа";
-"Home_Network_Title" = "ГОЛЕМИЯТ";
-"Home_Network_Des" = "стримери";
-"Home_Feature" = "Представени списъци";
-"Home_PopuMovie" = "Популярни филми";
-"Home_PopuTV" = "Популярни телевизионни предавания";
-"Home_Actor" = "Топ Актьори";
-"Home_Compan" = "Разгледайте от Studios";
-"Home_Filter_Movie" = "Всички филми";
-"Home_Filter_TV" = "Всички телевизионни предавания";
-"Home_Continue" = "Продължете да гледате";
-"MyList_Empty" = "Вашият списък е празен";
-"MyList_Connect" = "Свържете своя Trakt акаунт, за да синхронизирате списъците си.";
-"MyList_Button" = "Свържете се";
-"Setting_Commu" = "Общност";
-"Setting_DesComu" = "Присъединете се към нашия канал за актуализации и още";
-"Setting_Trakt" = "Trakt акаунт";
-"Setting_Discon" = "Прекъснете връзката";
-"Setting_Lang" = "език";
-"Setting_Data" = "Показване/скриване на данни";
-"Setting_Term" = "Условия и политика";
-"Setting_FAQ" = "Често задавани въпроси";
-"Setting_Rate" = "Оценете приложението";
-"Setting_Share" = "Приложение за споделяне";
-"ShowData_Compan" = "Компания";
-"ShowData_Net" = "мрежа";
-"ShowData_Trakt" = "Показване на данни от Trakt";
-"Search_Title" = "Търсене";
-"DetailMovie_Genre" = "Без жанр";
-"DetailMovie_Cast" = "Актьорски състав";
-"DetailMovie_Season" = "Сезон";
-"DetailMovie_Add" = "Добавете списък";
-"DetailMovie_Added" = "Добавено";
-"Continue_Detail" = "Подробности за филма";
-"Continue_Delete" = "Изтриване";
-"MyList_Empty" = "Вашият списък е празен";
-"Search_Empty" = "Опа! Нищо не съответства на вашето търсене. Нека опитаме с различно заглавие";
-"Home_ContinueWatch" = "Продължете да гледате";
-"Home_PopuMoTrakt" = "Популярни филми на Trakt";
-"Home_PopuTVTrakt" = "Популярни телевизионни предавания на Trakt";
-"Movie_Play" = "Играйте";
-"Movie_Resume" = "Резюме";
-"DetailMovie_Nosug" = "Няма намерени предложения";
-"DetailMovie_NoneSeason" = "Сезон 1";
-"Tabbar_Home" = "Начало";
-"Tabbar_MyList" = "Моят списък";
-"Tabbar_Setting" = "Настройка";
+  "OnBoard_pick_genre": "اختر الأنواع المفضلة لديك",
+  "OnBoard_movies": "أفلام",
+  "OnBoard_back": "خلف",
+  "OnBoard_next": "التالي",
+  "OnBoard_tvshows": "البرامج التلفزيونية",
+  "OnBoard_Title_Track": "قم بتعزيز خلاصتك باستخدام Trakt",
+  "OnBoard_Des_Track": "نستخدم بيانات Trakt العامة لعرض ما يشاهده المستخدمون. يمكنك إيقاف هذه الميزة في أي وقت من الإعدادات.",
+  "OnBoard_Warning_Title": "تحذير",
+  "OnBoard_Warning_Des": "الرجاء تحديد 5 أنواع على الأقل!",
+  "Home_Suggest": "أقترح عليك",
+  "Home_Network": "استكشاف حسب الشبكة",
+  "Home_Network_Title": "الكبير",
+  "Home_Network_Des": "اللافتات",
+  "Home_Feature": "القوائم المميزة",
+  "Home_PopuMovie": "الأفلام الشعبية",
+  "Home_PopuTV": "البرامج التلفزيونية الشعبية",
+  "Home_Actor": "أفضل الممثلين",
+  "Home_Compan": "استكشف حسب الاستوديوهات",
+  "Home_Filter_Movie": "جميع الأفلام",
+  "Home_Filter_TV": "جميع البرامج التلفزيونية",
+  "Home_Continue": "متابعة المشاهدة",
+  "MyList_Empty": "قائمتك فارغة",
+  "MyList_Connect": "قم بربط حساب Trakt الخاص بك لمزامنة قوائمك.",
+  "MyList_Button": "يتصل",
+  "Setting_Commu": "مجتمع",
+  "Setting_DesComu": "انضم إلى قناتنا للحصول على التحديثات والمزيد",
+  "Setting_Trakt": "حساب تراك",
+  "Setting_Discon": "قطع الاتصال",
+  "Setting_Lang": "لغة",
+  "Setting_Data": "إظهار/إخفاء البيانات",
+  "Setting_Term": "الشروط والسياسة",
+  "Setting_FAQ": "الأسئلة الشائعة",
+  "Setting_Rate": "تقييم التطبيق",
+  "Setting_Share": "مشاركة التطبيق",
+  "ShowData_Compan": "شركة",
+  "ShowData_Net": "شبكة",
+  "ShowData_Trakt": "عرض البيانات من Trakt",
+  "Search_Title": "يبحث",
+  "DetailMovie_Genre": "لا يوجد نوع",
+  "DetailMovie_Cast": "يقذف",
+  "DetailMovie_Season": "موسم",
+  "DetailMovie_Add": "إضافة القائمة",
+  "DetailMovie_Added": "تمت الإضافة",
+  "Continue_Detail": "تفاصيل الفيلم",
+  "Continue_Delete": "يمسح",
+  "Search_Empty": "عفوًا! لم يُطابق بحثك أي نتائج. لنجرب عنوانًا آخر.",
+  "Home_ContinueWatch": "متابعة المشاهدة",
+  "Home_PopuMoTrakt": "الأفلام الشعبية على Trakt",
+  "Home_PopuTVTrakt": "البرامج التلفزيونية الشهيرة على Trakt",
+  "Movie_Play": "يلعب",
+  "Movie_Resume": "سيرة ذاتية",
+  "DetailMovie_Nosug": "لم يتم العثور على أي اقتراحات",
+  "DetailMovie_NoneSeason": "الموسم الأول",
+  "Tabbar_Home": "بيت",
+  "Tabbar_MyList": "قائمتي",
+  "Tabbar_Setting": "جلسة"
 }
