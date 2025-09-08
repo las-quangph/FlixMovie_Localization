@@ -1,61 +1,58 @@
 {
-"OnBoard_pick_genre" = "Vyberte si své oblíbené žánry";
-"OnBoard_movies" = "Filmy";
-"OnBoard_back" = "Zadní";
-"OnBoard_next" = "Další";
-"OnBoard_tvshows" = "TV pořady";
-"OnBoard_Title_Track" = "Vylepšete svůj zdroj pomocí Trakt";
-"OnBoard_Des_Track" = "Veřejná data Traktu používáme k tomu, abychom ukázali, jací lidé 
-sledují. Tuto funkci můžete kdykoli vypnout v nastavení";
-"OnBoard_Warning_Title" = "Varování";
-"OnBoard_Warning_Des" = "Vyberte prosím alespoň 5 žánrů!";
-"Home_Suggest" = "Navrhněte pro vás";
-"Home_Network" = "Prozkoumat podle sítě";
-"Home_Network_Title" = "VELKÝ";
-"Home_Network_Des" = "Streamery";
-"Home_Feature" = "Vybrané seznamy";
-"Home_PopuMovie" = "Populární filmy";
-"Home_PopuTV" = "Populární televizní pořady";
-"Home_Actor" = "Nejlepší herci";
-"Home_Compan" = "Explore By Studios";
-"Home_Filter_Movie" = "Všechny filmy";
-"Home_Filter_TV" = "Všechny televizní pořady";
-"Home_Continue" = "Pokračovat ve sledování";
-"MyList_Empty" = "Váš seznam je prázdný";
-"MyList_Connect" = "Propojte svůj účet Trakt a synchronizujte své seznamy.";
-"MyList_Button" = "Připojit";
-"Setting_Commu" = "Společenství";
-"Setting_DesComu" = "Připojte se k našemu kanálu pro aktualizace a další";
-"Setting_Trakt" = "Účet Trakt";
-"Setting_Discon" = "Odpojit";
-"Setting_Lang" = "Jazyk";
-"Setting_Data" = "Zobrazit/skrýt data";
-"Setting_Term" = "Podmínky a zásady";
-"Setting_FAQ" = "Nejčastější dotazy";
-"Setting_Rate" = "Hodnotit aplikaci";
-"Setting_Share" = "Sdílet aplikaci";
-"ShowData_Compan" = "Společnost";
-"ShowData_Net" = "Síť";
-"ShowData_Trakt" = "Zobrazit data z Trakt";
-"Search_Title" = "Vyhledávání";
-"DetailMovie_Genre" = "Žádný žánr";
-"DetailMovie_Cast" = "Obsazení";
-"DetailMovie_Season" = "Sezóna";
-"DetailMovie_Add" = "Přidat seznam";
-"DetailMovie_Added" = "Přidáno";
-"Continue_Detail" = "Detail filmu";
-"Continue_Delete" = "Vymazat";
-"MyList_Empty" = "Váš seznam je prázdný";
-"Search_Empty" = "Jejda! Vašemu vyhledávání neodpovídá nic. Zkusme jiný název";
-"Home_ContinueWatch" = "Pokračovat ve sledování";
-"Home_PopuMoTrakt" = "Populární filmy na Trakt";
-"Home_PopuTVTrakt" = "Populární televizní pořady na Trakt";
-"Movie_Play" = "Hrát";
-"Movie_Resume" = "Resumé";
-"DetailMovie_Nosug" = "Nebyly nalezeny žádné návrhy";
-"DetailMovie_NoneSeason" = "sezóna 1";
-"Tabbar_Home" = "Domov";
-"Tabbar_MyList" = "Můj seznam";
-"Tabbar_Setting" = "Nastavení";
-
+  "OnBoard_pick_genre": "Vyberte si své oblíbené žánry",
+  "OnBoard_movies": "Filmy",
+  "OnBoard_back": "Zadní",
+  "OnBoard_next": "Další",
+  "OnBoard_tvshows": "TV pořady",
+  "OnBoard_Title_Track": "Vylepšete svůj zdroj pomocí Trakt",
+  "OnBoard_Des_Track": "Veřejná data Traktu používáme k tomu, abychom ukázali, jací lidé \nsledují. Tuto funkci můžete kdykoli vypnout v nastavení",
+  "OnBoard_Warning_Title": "Varování",
+  "OnBoard_Warning_Des": "Vyberte prosím alespoň 5 žánrů!",
+  "Home_Suggest": "Navrhněte pro vás",
+  "Home_Network": "Prozkoumat podle sítě",
+  "Home_Network_Title": "VELKÝ",
+  "Home_Network_Des": "Streamery",
+  "Home_Feature": "Vybrané seznamy",
+  "Home_PopuMovie": "Populární filmy",
+  "Home_PopuTV": "Populární televizní pořady",
+  "Home_Actor": "Nejlepší herci",
+  "Home_Compan": "Explore By Studios",
+  "Home_Filter_Movie": "Všechny filmy",
+  "Home_Filter_TV": "Všechny televizní pořady",
+  "Home_Continue": "Pokračovat ve sledování",
+  "MyList_Empty": "Váš seznam je prázdný",
+  "MyList_Connect": "Propojte svůj účet Trakt a synchronizujte své seznamy.",
+  "MyList_Button": "Připojit",
+  "Setting_Commu": "Společenství",
+  "Setting_DesComu": "Připojte se k našemu kanálu pro aktualizace a další",
+  "Setting_Trakt": "Účet Trakt",
+  "Setting_Discon": "Odpojit",
+  "Setting_Lang": "Jazyk",
+  "Setting_Data": "Zobrazit/skrýt data",
+  "Setting_Term": "Podmínky a zásady",
+  "Setting_FAQ": "Nejčastější dotazy",
+  "Setting_Rate": "Hodnotit aplikaci",
+  "Setting_Share": "Sdílet aplikaci",
+  "ShowData_Compan": "Společnost",
+  "ShowData_Net": "Síť",
+  "ShowData_Trakt": "Zobrazit data z Trakt",
+  "Search_Title": "Vyhledávání",
+  "DetailMovie_Genre": "Žádný žánr",
+  "DetailMovie_Cast": "Obsazení",
+  "DetailMovie_Season": "Sezóna",
+  "DetailMovie_Add": "Přidat seznam",
+  "DetailMovie_Added": "Přidáno",
+  "Continue_Detail": "Detail filmu",
+  "Continue_Delete": "Vymazat",
+  "Search_Empty": "Jejda! Vašemu vyhledávání neodpovídá nic. Zkusme jiný název",
+  "Home_ContinueWatch": "Pokračovat ve sledování",
+  "Home_PopuMoTrakt": "Populární filmy na Trakt",
+  "Home_PopuTVTrakt": "Populární televizní pořady na Trakt",
+  "Movie_Play": "Hrát",
+  "Movie_Resume": "Resumé",
+  "DetailMovie_Nosug": "Nebyly nalezeny žádné návrhy",
+  "DetailMovie_NoneSeason": "sezóna 1",
+  "Tabbar_Home": "Domov",
+  "Tabbar_MyList": "Můj seznam",
+  "Tabbar_Setting": "Nastavení"
 }
